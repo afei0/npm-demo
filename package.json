@@ -1,0 +1,26 @@
+{
+  "name": "text",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "ceshi": "node index.js"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/afei0/text.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/afei0/text/issues"
+  },
+  "homepage": "https://github.com/afei0/text#readme",
+  "dependencies": {
+    "jquery": "^3.3.1"
+  }
+}
